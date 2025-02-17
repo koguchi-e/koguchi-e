@@ -1,5 +1,5 @@
 [![Likes](https://badgen.org/img/zenn/eliri/likes?style=plastic)](https://zenn.dev/eliri)
-[![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20{___eliri})](https://twitter.com/{___eliri})
+[![x](https://img.shields.io/badge/--FFFFFF?style=social&logo=x&label=Follow%20{___eliri})](https://x.com/{___eliri})
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/koguchi-e/github-profile-trophy)
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koguchi-e&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 ---
@@ -30,8 +30,8 @@
 [Zenn](https://zenn.dev/eliri) 
 [Qiita](https://qiita.com/___Eliri)  
 
-### X（旧Twitter）で学習記録を毎日発信  
-[Twitter](https://x.com/___eliri)  
+### X（旧x）で学習記録を毎日発信  
+[x](https://x.com/___eliri)  
 
 ### 資格の取得
 - 基本情報技術者試験
