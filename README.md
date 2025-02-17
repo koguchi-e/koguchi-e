@@ -1,5 +1,9 @@
 [![Likes](https://badgen.org/img/zenn/eliri/likes?style=plastic)](https://zenn.dev/eliri)
-
+<a href="http://twitter.com/___eliri">
+     <img height="20" src="https://img.shields.io/twitter/follow/___eliri?label=Twitter&logo=twitter&style=flat" />
+</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/koguchi-e/github-profile-trophy)
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koguchi-e&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 ---
 
 ## **👋 About Me**  
@@ -12,10 +16,6 @@
 ---
 
 ## スクールでの学習内容
-
-[![github-chart](https://github-chart.vercel.app/api?user=koguchi-e)](https://github.com/koguchi-e/github-chart)
-
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koguchi-e&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
 
 #### ** Taskun（たすくん）**  
