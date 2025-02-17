@@ -60,11 +60,11 @@
 - Linux教科書 LPICレベル1 Version5.0対応
 - サルでもわかるGit入門
 
-## イベント・もくもく会への参加等 （★★以下リンクを追加する）
+## イベント・もくもく会への参加等 
 - クローズドなエンジニアコミュニティに参加中
-- デザイナー主催の朝活中心の勉強会
-- 毎週Ruby, Railsもくもく会
-- エンジニアの輪
-- DWC卒業生&在校生限定もくもく会
+- [デザイナー主催の朝活中心の勉強会](https://morimori.connpass.com/)
+- [毎週Ruby, Railsもくもく会](https://classtech.connpass.com/event/344987/)
+- [エンジニアの輪](https://circle-of-engineer.connpass.com/)
+- [DWC卒業生&在校生限定もくもく会](https://connpass.com/event/334586/)
 
 
