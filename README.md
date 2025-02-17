@@ -14,28 +14,50 @@
 ## スクールでの学習内容
 
 #### ** Taskun（たすくん）**  
-    ✅ **Ruby on Rails × React を使用したタスク管理 & コミュニティサイト**  
-    ✅ **ユーザー認証機能（Devise）、投稿機能、CI/CDを実装**  
-    🔗 [GitHub Repository](https://github.com/koguchi-e/Taskun)  
+     **Ruby on Rails × React を使用したタスク管理 & コミュニティサイト**  
+     **ユーザー認証機能（Devise）、投稿機能、CI/CDを実装**  
+     [GitHub Repository](https://github.com/koguchi-e/Taskun)  
 
 #### ** チーム開発プロジェクト**  
 
 ## 現職で使用した技術
 
 ## その他自主的に行った活動
-✅ **Zenn / Qiita にて技術記事を執筆中**  
-🔗 [Zenn](https://zenn.dev/eliri) 
-   [Qiita](https://qiita.com/___Eliri)  
+### 記事の執筆 
+[Zenn](https://zenn.dev/eliri) 
+[Qiita](https://qiita.com/___Eliri)  
 
-✅ **X（旧Twitter）で学習記録を毎日発信**  
-🔗 [Twitter](https://x.com/___eliri)  
+### *X（旧Twitter）で学習記録を毎日発信  
+[Twitter](https://x.com/___eliri)  
 
-✅ **エンジニアコミュニティのイベントに参加し、チーム開発を実践中**  
+### イベント・もくもく会への参加等
+- クローズドなエンジニアコミュニティに参加中
+- デザイナー主催の朝活中心の勉強会
+- 毎週Ruby, Railsもくもく会
+- エンジニアの輪
+- DWC卒業生&在校生限定もくもく会
+
+### 資格の取得
+- 基本情報技術者試験
+- ITパスポート
+
 
 ## 学習中書籍
-- 確かな力が身につくJavaScript「超」入門 第2版(読了)
-- 1冊ですべて身につくHTML & CSSとWebデザイン入門講座［第2版］ 
+**読了**
+- 確かな力が身につくJavaScript「超」入門 第2版
+- 1週間でLPICの基礎が学べる本 第3版
+- 改訂2版 わかばちゃんと学ぶ Git使い方入門
+- プログラムはなぜ動くのか 第３版　知っておきたいプログラミングの基礎知識
+- ゼロからわかるAmazon Web Services超入門　はじめてのクラウド　
+
+**学習中**
+- プロを目指す人のためのRuby入門［改訂2版］
+- ゼロからわかる Ruby 超入門 (かんたんIT基礎講座) 
+- - オブジェクト指向設計実践ガイド　～Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
+- 1冊ですべて身につくHTML & CSSとWebデザイン入門講座［第2版］
 - ［改訂新版］プロになるためのWeb技術入門
-- 
+- 新しいLinuxの教科書
+- Linux教科書 LPICレベル1 Version5.0対応
+- サルでもわかるGit入門
 
 
