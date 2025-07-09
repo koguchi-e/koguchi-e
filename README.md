@@ -8,6 +8,8 @@
 - [はてなブログ](https://eliri.hatenablog.com/?_gl=1*cmzdr4*_gcl_au*MTkzMjI4NTMwNC4xNzQ0NTk0MDU3)
 - [x](https://x.com/___eliri)  
 
-### 資格の取得
+### 取得した資格
 - 基本情報技術者試験
 - ITパスポート
+- 秘書検定2級
+- ファイナンシャルプランニング技能士3級
