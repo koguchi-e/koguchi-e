@@ -1,3 +1,4 @@
+<img src="./img/logo_silver_v3.png" alt="RubySilver" width="100px" height="100px">
 [![Likes](https://badgen.org/img/zenn/eliri/likes?style=plastic)](https://zenn.dev/eliri)
 [![x](https://img.shields.io/badge/--FFFFFF?style=social&logo=x&label=Follow%20___eliri)](https://x.com/___eliri)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/koguchi-e/github-profile-trophy)
