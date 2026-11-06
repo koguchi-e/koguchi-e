@@ -1,9 +1,12 @@
-<img src="./img/logo_silver_v3.png" alt="RubySilver" width="100px" height="100px">
-
-[![Likes](https://badgen.org/img/zenn/eliri/likes?style=plastic)](https://zenn.dev/eliri)
-[![x](https://img.shields.io/badge/--FFFFFF?style=social&logo=x&label=Follow%20___eliri)](https://x.com/___eliri)
-
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koguchi-e&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+<p>
+  <img src="./img/logo_silver_v3.png" alt="RubySilver" width="80" height="80">
+  <a href="https://zenn.dev/eliri">
+    <img src="https://badgen.org/img/zenn/eliri/likes?style=plastic" alt="Zenn Likes">
+  </a>
+  <a href="https://x.com/___eliri">
+    <img src="https://img.shields.io/badge/--FFFFFF?style=social&logo=x&label=Follow%20___eliri" alt="X Follow">
+  </a>
+</p>
 
 ---
 
@@ -11,7 +14,7 @@
 
 現在は、医療関係の学術集会向けWebシステムの運用・保守に携わり、Perl・HTML・CSSを用いた登録画面の修正や、問い合わせ対応などを行っています。
 
-基本情報技術者試験の学習をきっかけにオブジェクト指向に興味を持ち、Rubyを学び始めました。
+基本情報技術者試験の学習をきっかけにオブジェクト指向に興味を持ち、Rubyを学び始めました。<br>
 フィヨルドブートキャンプでRuby on Railsを中心にWebアプリケーション開発を学び、現在も個人開発や技術学習に取り組んでいます。
 
 ### About me
